@@ -1,6 +1,6 @@
 ## Haberler API
 
-Laravel içerisinde gelen token based api ile geliştirilen küçük çaplı bir Restfull uygulamadır.
+Laravel içerisinde gelen token based api ile geliştirilen küçük çaplı bir Restful uygulamadır.
 
 ### Kullanımı
 
